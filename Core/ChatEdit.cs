@@ -1,17 +1,12 @@
 using System.Collections.Generic;
-using System.Linq;
 using System.Reflection;
-using System.Reflection.Emit;
-using log4net.Core;
 using Microsoft.Xna.Framework;
 using MonoMod.Cil;
-using ReLogic.Graphics;
 using Terraria;
 using Terraria.GameContent;
 using Terraria.GameContent.UI.Chat;
 using Terraria.ModLoader;
 using Terraria.UI.Chat;
-using OpCodes = Mono.Cecil.Cil.OpCodes;
 
 namespace AnimatedChat.Core;
 
