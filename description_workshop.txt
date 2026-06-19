@@ -1,1 +1,5 @@
-This description will show up on the steam page, check out https://steamcommunity.com/comment/Guide/formattinghelp.
+Gives chat messages a simple fade & slide animation.
+
+Also affects status messages.
+
+Source Code: https://github.com/flye-name/terraria-animated-chat
