@@ -1,0 +1,4 @@
+displayName = Chat Animations
+author = flye
+version = 0.1
+buildIgnore = lib\*, .idea\*, .vs\*, *.tmp, Properties\*, *.csproj, *.user, obj\*, bin\*, *.config, .editorconfig, TemplateEngineHost\*

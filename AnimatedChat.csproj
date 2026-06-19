@@ -1,0 +1,11 @@
+<Project Sdk="Tomat.Terraria.ModLoader.Sdk/2.1.0">
+	<Import Project="..\tModLoader.targets" />
+
+	<PropertyGroup>
+		<LangVersion>preview</LangVersion>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Publicize Include="tModLoader;ReLogic;FNA" IncludeVirtualMebers="false" IncludeCompilerGeneratedMembers="false" />
+	</ItemGroup>
+</Project>
